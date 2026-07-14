@@ -18,8 +18,32 @@
     "scrollHint": "Scroll"
   },
   "Work": {
+    "eyebrow": "(Selected Work)",
     "title": "Work",
-    "description": "A selection of projects is being built. Case studies are coming soon."
+    "statusInDevelopment": "In development",
+    "cursorView": "View",
+    "projects": {
+      "saas-barber": {
+        "title": "SaaS Barber",
+        "description": "Multi-tenant SaaS for barbershop management — scheduling, professionals and business operations built on strict tenant-isolation architecture."
+      },
+      "handoff": {
+        "title": "Handoff",
+        "description": "A Figma plugin bridging design and development — snapshots, visual diffs and publishable handoff dashboards."
+      },
+      "promo-agent": {
+        "title": "Promo Agent",
+        "description": "Autonomous promotions agent — scrapes deals, writes AI copy, generates artwork and distributes to WhatsApp & Telegram, end to end."
+      },
+      "anhanga-radar": {
+        "title": "Anhangá Radar",
+        "description": "Desktop automation turning unstructured public data into a formatted Excel CRM through NLP extraction."
+      },
+      "advocacia-argenton": {
+        "title": "Advocacia Argenton",
+        "description": "Conversion-focused landing page for a law practice — sober, trustworthy, compliant with Brazilian Bar advertising rules."
+      }
+    }
   },
   "About": {
     "title": "About",

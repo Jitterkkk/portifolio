@@ -18,8 +18,32 @@
     "scrollHint": "Scroll"
   },
   "Work": {
+    "eyebrow": "(Trabalhos Selecionados)",
     "title": "Trabalhos",
-    "description": "Seleção de projetos em construção. Em breve, os primeiros estudos de caso."
+    "statusInDevelopment": "Em desenvolvimento",
+    "cursorView": "Ver",
+    "projects": {
+      "saas-barber": {
+        "title": "SaaS Barber",
+        "description": "SaaS multi-tenant de gestão para barbearias — agendamento, profissionais e operação do negócio sobre uma arquitetura de isolamento rígido entre tenants."
+      },
+      "handoff": {
+        "title": "Handoff",
+        "description": "Plugin de Figma que conecta design e desenvolvimento — snapshots, diffs visuais e dashboards de handoff publicáveis."
+      },
+      "promo-agent": {
+        "title": "Promo Agent",
+        "description": "Agente autônomo de promoções — raspa ofertas, escreve copy com IA, gera artes e distribui no WhatsApp e Telegram, de ponta a ponta."
+      },
+      "anhanga-radar": {
+        "title": "Anhangá Radar",
+        "description": "Automação desktop que transforma dados públicos não estruturados em um CRM Excel formatado via extração com NLP."
+      },
+      "advocacia-argenton": {
+        "title": "Advocacia Argenton",
+        "description": "Landing page de conversão para advocacia — sóbria, confiável e em conformidade com as regras de publicidade da OAB."
+      }
+    }
   },
   "About": {
     "title": "Sobre",

@@ -10,6 +10,7 @@ export default function ParticleScene({ active }: { active: boolean }) {
       gl={{ antialias: false, alpha: true, powerPreference: "high-performance" }}
       camera={{ position: [0, 0, 6.5], fov: 45 }}
       frameloop={active ? "always" : "never"}
+      style={{ pointerEvents: "none" }}
     >
       <Particles />
     </Canvas>
