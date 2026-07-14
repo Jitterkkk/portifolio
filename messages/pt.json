@@ -1,0 +1,32 @@
+{
+  "Metadata": {
+    "title": "Bernardo Biazus — Full Stack Developer & UI/UX Designer",
+    "description": "Portfólio de Bernardo Biazus, desenvolvedor full stack e designer UI/UX."
+  },
+  "Nav": {
+    "work": "Work",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "available": "Disponível para freelance",
+    "location": "Brasil (GMT-3)",
+    "titleLine1": "BERNARDO",
+    "titleLine2": "Biazus",
+    "roleDev": "Full Stack Developer",
+    "roleDesign": "UI/UX Designer",
+    "scrollHint": "Scroll"
+  },
+  "Work": {
+    "title": "Trabalhos",
+    "description": "Seleção de projetos em construção. Em breve, os primeiros estudos de caso."
+  },
+  "About": {
+    "title": "Sobre",
+    "description": "Uma breve apresentação sobre trajetória, ferramentas e forma de trabalhar está a caminho."
+  },
+  "Contact": {
+    "title": "Contato",
+    "description": "Formulário e canais de contato chegam em uma próxima fase."
+  }
+}
